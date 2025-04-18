@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
+    "BOTNAME": "KGF BOT",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100040426712109"
+        "100071800304869"
     ],
     "NDH": [
-        "100037743553265"
+        "100071800304869"
     ],
     "DATABASE": {
         "sqlite": {
